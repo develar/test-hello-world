@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <component default="false" name="wefwef" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+  <configuration default="false" name="wefwef" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
     <toRun type="Application" name="Unnamed" />
     <method />
-  </component>
+  </configuration>
 </component>

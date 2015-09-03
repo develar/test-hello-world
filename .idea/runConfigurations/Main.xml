@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <component default="false" name="Main" type="Application" factoryName="Application" singleton="true" nameIsGenerated="true">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" singleton="true" nameIsGenerated="true">
     <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
       <pattern>
         <option name="PATTERN" value="com.company.*" />
@@ -18,5 +18,5 @@
     <module name="hello-world" />
     <envs />
     <method />
-  </component>
+  </configuration>
 </component>

@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <component default="false" name="4444" type="Application" factoryName="Application">
+  <configuration default="false" name="4444" type="Application" factoryName="Application">
     <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     <option name="MAIN_CLASS_NAME" value="" />
     <option name="VM_PARAMETERS" value="" />
@@ -13,5 +13,5 @@
     <module name="hello-world" />
     <envs />
     <method />
-  </component>
+  </configuration>
 </component>
